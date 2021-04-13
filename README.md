@@ -1,13 +1,13 @@
 # COLOR Generator
 
 ## Table of contents
-
-![](DEMO.JPG)
-
-
 - [General info](#general-info)
 - [Technologies](#technologies)
 - [Setup](#setup)
+
+
+![](DEMO.JPG)
+
 
 ## General info
 
